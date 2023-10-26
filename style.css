@@ -9,4 +9,13 @@
 header {
     background-image: url(./imagens/bg-mobile.png);
     background-size: cover;
+    height: 8.375rem;
+
+
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center ;
 }
